@@ -3,8 +3,11 @@ by wilder
 Este es una prueba de uso de github
 para repositorios
 
+La gran ventaja de usar github desde hacer backups
+a tus archivos asi como tener un historial de ellos.
+
 abdefg@gmail.com
 
-jklmn@hotmail.com
+arkantos@hotmail.com
 
 -----
